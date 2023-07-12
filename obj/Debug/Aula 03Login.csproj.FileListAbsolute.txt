@@ -1,0 +1,10 @@
+C:\Users\Public\source\repos\Aula 03Login\Aula 03Login\bin\Debug\Aula 03Login.exe.config
+C:\Users\Public\source\repos\Aula 03Login\Aula 03Login\bin\Debug\Aula 03Login.exe
+C:\Users\Public\source\repos\Aula 03Login\Aula 03Login\bin\Debug\Aula 03Login.pdb
+C:\Users\Public\source\repos\Aula 03Login\Aula 03Login\obj\Debug\Aula 03Login.csproj.AssemblyReference.cache
+C:\Users\Public\source\repos\Aula 03Login\Aula 03Login\obj\Debug\Aula_03Login.Form1.resources
+C:\Users\Public\source\repos\Aula 03Login\Aula 03Login\obj\Debug\Aula_03Login.Properties.Resources.resources
+C:\Users\Public\source\repos\Aula 03Login\Aula 03Login\obj\Debug\Aula 03Login.csproj.GenerateResource.cache
+C:\Users\Public\source\repos\Aula 03Login\Aula 03Login\obj\Debug\Aula 03Login.csproj.CoreCompileInputs.cache
+C:\Users\Public\source\repos\Aula 03Login\Aula 03Login\obj\Debug\Aula 03Login.exe
+C:\Users\Public\source\repos\Aula 03Login\Aula 03Login\obj\Debug\Aula 03Login.pdb
